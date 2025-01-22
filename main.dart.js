@@ -70417,7 +70417,7 @@ A.rE.prototype={
 au(){return new A.Sb()}}
 A.Sb.prototype={
 T(a){var s=null,r=this.a.c?B.aE:B.bo
-return A.arV(B.co,A.a([new A.jA("assets/icons/linkedin.png","https://www.linkedin.com/in/asif-ali-72546b224/",B.Dt,s),new A.jA("assets/icons/github.png","https://github.com/Dev-Asif-Ali/AsifAli119",B.k_,s),new A.jA("assets/icons/medium.png","https://https://medium.com/@aasifalee.114",B.k_,s),new A.jA("assets/icons/twitter.png","https://twitter.com/@mr_eemaan",B.Dh,s),new A.jA("assets/icons/instagram.png","https://instagram.com/otaku___19",B.CQ,s),new A.jA("assets/icons/facebook.png","https://facebook.com/yourprofile",B.Dm,s)],t.G),r,20,20)}}
+return A.arV(B.co,A.a([new A.jA("assets/icons/linkedin.png","https://www.linkedin.com/in/asif-ali-72546b224/",B.Dt,s),new A.jA("assets/icons/github.png","https://github.com/Dev-Asif-Ali/AsifAli119",B.k_,s),new A.jA("assets/icons/medium.png","https://medium.com/@aasifalee.114",B.k_,s),new A.jA("assets/icons/twitter.png","https://twitter.com/@mr_eemaan",B.Dh,s),new A.jA("assets/icons/instagram.png","https://instagram.com/otaku___19",B.CQ,s),new A.jA("assets/icons/facebook.png","https://www.facebook.com/share/15y6KwHJfR/",B.Dm,s)],t.G),r,20,20)}}
 A.jA.prototype={
 au(){return new A.Sa()}}
 A.Sa.prototype={

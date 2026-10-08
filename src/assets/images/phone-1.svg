@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 640" width="320" height="640">
+  <rect width="320" height="640" fill="#ffffff" />
+  <rect width="320" height="88" fill="#111827" />
+  <text x="24" y="52" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Discover Jobs</text>
+  <g font-family="system-ui, sans-serif">
+    <rect x="20" y="112" width="280" height="132" rx="16" fill="#f8fafc" stroke="#e2e8f0" />
+    <rect x="36" y="132" width="70" height="22" rx="11" fill="#ede9fe" />
+    <text x="46" y="147" font-size="11" font-weight="600" fill="#7c3aed">Full Time</text>
+    <text x="36" y="182" font-size="18" font-weight="700" fill="#111827">UI/UX Designer</text>
+    <text x="36" y="205" font-size="13" fill="#64748b">Remote · Design Team</text>
+    <rect x="36" y="218" width="90" height="16" rx="8" fill="#dcfce7" />
+    <text x="44" y="230" font-size="10" font-weight="600" fill="#16a34a">Urgent Hiring</text>
+
+    <rect x="20" y="260" width="280" height="132" rx="16" fill="#f8fafc" stroke="#e2e8f0" />
+    <rect x="36" y="280" width="70" height="22" rx="11" fill="#dbeafe" />
+    <text x="46" y="295" font-size="11" font-weight="600" fill="#2563eb">Part Time</text>
+    <text x="36" y="330" font-size="18" font-weight="700" fill="#111827">HR Executive</text>
+    <text x="36" y="353" font-size="13" fill="#64748b">Hybrid · People Ops</text>
+    <rect x="36" y="366" width="86" height="16" rx="8" fill="#fef3c7" />
+    <text x="44" y="378" font-size="10" font-weight="600" fill="#b45309">2 Applicants</text>
+
+    <rect x="20" y="408" width="280" height="132" rx="16" fill="#f8fafc" stroke="#e2e8f0" />
+    <rect x="36" y="428" width="70" height="22" rx="11" fill="#fee2e2" />
+    <text x="46" y="443" font-size="11" font-weight="600" fill="#dc2626">On-site</text>
+    <text x="36" y="478" font-size="18" font-weight="700" fill="#111827">Waiter</text>
+    <text x="36" y="501" font-size="13" fill="#64748b">F&amp;B Service · City Cafe</text>
+  </g>
+  <rect y="576" width="320" height="64" fill="#ffffff" stroke="#e2e8f0" />
+  <circle cx="70" cy="608" r="16" fill="#2563eb" />
+  <circle cx="160" cy="608" r="10" fill="#e2e8f0" />
+  <circle cx="250" cy="608" r="10" fill="#e2e8f0" />
+</svg>

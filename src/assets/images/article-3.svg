@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="a3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6d28d9" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#a3)" />
+  <g transform="translate(60,150)" font-family="Georgia, 'Times New Roman', serif" font-weight="700" fill="#ffffff">
+    <text x="0" y="0" font-size="60" letter-spacing="1">Expo Just</text>
+    <text x="0" y="68" font-size="60" letter-spacing="1">Befriended Flutter</text>
+  </g>
+  <g transform="translate(560,260)">
+    <rect x="0" y="0" width="90" height="120" rx="20" fill="#38bdf8" />
+    <circle cx="30" cy="40" r="7" fill="#0f172a" />
+    <circle cx="60" cy="40" r="7" fill="#0f172a" />
+    <path d="M22 74q22 20 44 0" stroke="#0f172a" stroke-width="5" fill="none" stroke-linecap="round" />
+    <rect x="110" y="0" width="90" height="120" rx="20" fill="#f1f5f9" />
+    <circle cx="140" cy="40" r="7" fill="#0f172a" />
+    <circle cx="170" cy="40" r="7" fill="#0f172a" />
+    <path d="M132 74q22 20 44 0" stroke="#0f172a" stroke-width="5" fill="none" stroke-linecap="round" />
+  </g>
+</svg>

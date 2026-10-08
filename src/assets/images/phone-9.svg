@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 640" width="320" height="640">
+  <rect width="320" height="640" fill="#f5f7fb"/>
+  <rect x="0" y="0" width="320" height="136" fill="#111827"/>
+  <text x="24" y="52" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Payment</text>
+  <text x="24" y="82" font-family="system-ui, sans-serif" font-size="13" fill="#cbd5e1">Choose a method</text>
+
+  <rect x="24" y="154" width="272" height="186" rx="20" fill="#ffffff"/>
+  <rect x="40" y="176" width="240" height="28" rx="14" fill="#eff6ff"/>
+  <text x="60" y="195" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#1d4ed8">UPI</text>
+  <rect x="40" y="214" width="240" height="28" rx="14" fill="#f8fafc"/>
+  <text x="60" y="233" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#111827">Debit Card</text>
+  <rect x="40" y="252" width="240" height="28" rx="14" fill="#f8fafc"/>
+  <text x="60" y="271" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#111827">Credit Card</text>
+  <rect x="40" y="290" width="240" height="28" rx="14" fill="#f8fafc"/>
+  <text x="60" y="309" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#111827">Wallet</text>
+
+  <rect x="18" y="384" width="284" height="214" rx="26" fill="#ffffff"/>
+  <text x="36" y="416" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#111827">Selected option</text>
+  <rect x="36" y="432" width="248" height="54" rx="14" fill="#eef2ff"/>
+  <text x="54" y="454" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#312e81">UPI - vijay@paytm</text>
+  <text x="54" y="472" font-family="system-ui, sans-serif" font-size="11" fill="#4f46e5">Instant transfer</text>
+  <rect x="36" y="500" width="248" height="50" rx="14" fill="#111827"/>
+  <text x="126" y="532" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Pay ₹2,490</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 640" width="320" height="640">
+  <rect width="320" height="640" fill="#f8fafc"/>
+  <rect x="0" y="0" width="320" height="96" fill="#0f172a"/>
+  <text x="24" y="52" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Jobs</text>
+  <text x="230" y="52" font-family="system-ui, sans-serif" font-size="12" fill="#cbd5e1">Filter</text>
+
+  <rect x="20" y="118" width="280" height="150" rx="20" fill="#ffffff"/>
+  <g font-family="system-ui, sans-serif">
+    <rect x="36" y="136" width="66" height="20" rx="10" fill="#ede9fe"/>
+    <text x="48" y="150" font-size="10" font-weight="700" fill="#7c3aed">Remote</text>
+    <text x="36" y="182" font-size="20" font-weight="700" fill="#111827">Product Designer</text>
+    <text x="36" y="205" font-size="12" fill="#64748b">Mynk Studio • Full-time</text>
+    <rect x="36" y="220" width="82" height="16" rx="8" fill="#dcfce7"/>
+    <text x="46" y="232" font-size="10" font-weight="700" fill="#16a34a">₹18L - ₹24L</text>
+  </g>
+
+  <rect x="20" y="286" width="280" height="150" rx="20" fill="#ffffff"/>
+  <g font-family="system-ui, sans-serif">
+    <rect x="36" y="304" width="70" height="20" rx="10" fill="#dbeafe"/>
+    <text x="48" y="318" font-size="10" font-weight="700" fill="#2563eb">Hybrid</text>
+    <text x="36" y="350" font-size="20" font-weight="700" fill="#111827">Android Engineer</text>
+    <text x="36" y="373" font-size="12" fill="#64748b">Fintrexa • Bengaluru</text>
+    <rect x="36" y="388" width="94" height="16" rx="8" fill="#fef3c7"/>
+    <text x="46" y="400" font-size="10" font-weight="700" fill="#b45309">Fast response</text>
+  </g>
+
+  <rect x="20" y="454" width="280" height="118" rx="20" fill="#ffffff"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="36" y="484" font-size="13" font-weight="700" fill="#111827">Recommended</text>
+    <rect x="36" y="500" width="220" height="16" rx="8" fill="#e2e8f0"/>
+    <rect x="36" y="528" width="180" height="16" rx="8" fill="#e2e8f0"/>
+  </g>
+</svg>

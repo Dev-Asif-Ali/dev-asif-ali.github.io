@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="a1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#a1)" />
+  <g opacity="0.25" stroke="#ffffff" stroke-width="2">
+    <line x1="0" y1="60" x2="200" y2="0" />
+    <line x1="0" y1="140" x2="260" y2="0" />
+    <line x1="600" y1="450" x2="800" y2="300" />
+    <line x1="680" y1="450" x2="800" y2="360" />
+  </g>
+  <g transform="translate(60,150)" font-family="Georgia, 'Times New Roman', serif" font-weight="700" fill="#ffffff">
+    <text x="0" y="0" font-size="64" letter-spacing="1">Flutter SDK,</text>
+    <text x="0" y="70" font-size="64" letter-spacing="1">Demystified</text>
+  </g>
+  <g transform="translate(540,120)" opacity="0.9">
+    <rect x="0" y="0" width="150" height="220" rx="18" fill="#0f172a" />
+    <rect x="12" y="18" width="126" height="184" rx="8" fill="#1e293b" />
+    <circle cx="75" cy="110" r="26" fill="#38bdf8" />
+  </g>
+</svg>
